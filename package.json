@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "express-session": "^1.17.1",
     "mongoose": "^5.9.12",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "query-string": "^6.12.1",
     "request": "^2.88.2"
   }
